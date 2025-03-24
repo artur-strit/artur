@@ -1,1 +1,2 @@
 Este é um arquivo texto.
+estou alternado este arquivo.
